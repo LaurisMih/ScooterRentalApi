@@ -1,14 +1,7 @@
-﻿using FluentAssertions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ScooterRental;
-using ScooterRental.Interfaces;
-using ScooterRentalAPI;
-using ScooterRentalAPI.ScooterRental.Interfaces;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using ScooterRental.Main.Calculations;
+using ScooterRental.Main.Models;
 
 namespace CalculationTests
 {

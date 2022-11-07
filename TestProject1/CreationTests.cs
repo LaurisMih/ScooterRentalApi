@@ -2,8 +2,9 @@
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using ScooterRental.Main.Models;
 
-namespace ScooterRental.Tests
+namespace ScooterRentalS.Tests
 {
     [TestClass]
     public class ScooterTests

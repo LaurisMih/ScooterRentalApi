@@ -1,14 +1,8 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ScooterRental;
-using ScooterRentalAPI;
-using ScooterRentalAPI.ScooterRental.Interfaces;
-using ScooterRentalAPI.Validations;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using ScooterRental.Main.Validations;
+using ScooterRental.Main.Interfaces;
+using ScooterRental.Main.Models;
 
 namespace ScooterValidations
 {

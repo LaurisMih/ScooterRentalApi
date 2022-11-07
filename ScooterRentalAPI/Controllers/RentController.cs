@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ScooterRental;
-using ScooterRental.Interfaces;
-using ScooterRentalAPI.ScooterRental.Interfaces;
-using System.Collections.Generic;
+using ScooterRental.Main.Interfaces;
+using ScooterRental.Main.Models;
+using ScooterRental.Services.Interfaces;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
